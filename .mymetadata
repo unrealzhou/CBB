@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CBB"
+  id="myeclipse.1452348746594"
+  context-root="/CBB"
+  j2ee-spec="6.0"
+  archive="CBB.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
